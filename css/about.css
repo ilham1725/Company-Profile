@@ -1,0 +1,31 @@
+.about-us{
+   
+    background-color: #d8d6ff;
+    filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
+
+    height: 700px;
+}
+.style-atas{
+    width: 50px;
+    border: 5px solid;
+}
+.col-md-3{
+    color: white;
+    padding-bottom: 50px;
+    margin-top: -30px;
+    background-color: #151930 ;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    box-shadow: 5px 10px 18px #888888;
+}
+.col-md-3:hover{
+    background-color: blanchedalmond;
+    transition: 0.5s ease-in-out;
+    box-shadow: 5px 20px 18px #888888;
+    color: brown;
+}
+.svg-col-md{
+    filter: drop-shadow(5px 10px 4px rgb(0 0 0 / 0.4));
+}
+
